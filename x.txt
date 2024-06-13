@@ -7,5 +7,3 @@ z
 xx
 
 yy
-
-Revret
